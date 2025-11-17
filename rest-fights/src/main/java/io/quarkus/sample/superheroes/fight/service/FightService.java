@@ -42,7 +42,7 @@ import io.smallrye.mutiny.Uni;
 import io.smallrye.reactive.messaging.MutinyEmitter;
 
 /**
- * TEST Business logic for the Fight service
+ * TEST jat Business logic for the Fight service
  */
 @ApplicationScoped
 public class FightService {
